@@ -1,4 +1,4 @@
-package greyrest
+package Main
 
 import (
 	"fmt"
